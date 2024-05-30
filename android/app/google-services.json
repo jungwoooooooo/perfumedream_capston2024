@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028256298808",
+    "project_id": "kkk-shop-687e3",
+    "storage_bucket": "kkk-shop-687e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028256298808:android:0a3e745cc4d54d0a85f3cd",
+        "android_client_info": {
+          "package_name": "com.example.kkk_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydlMIj6_n2cA0phON3E2ZtVEKavxE_7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
